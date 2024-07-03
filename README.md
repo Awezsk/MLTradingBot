@@ -18,7 +18,7 @@ This project implements a machine learning-based trading strategy using the Lumi
 
 ## Installation
 
-1. Clone this repository:
+1. Clone this repository: https://github.com/Awezsk/MLTradingBot.git
 2. Install the required packages: pip install lumibot alpaca-trade-api pandas transformers torch
 3. 3. Set up your Alpaca API credentials in the code or use environment variables.
 
